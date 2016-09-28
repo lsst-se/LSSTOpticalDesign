@@ -1,4 +1,5 @@
 This is the official LSST optical design ZEMAX model 
 9/28/16
 	We start from V3.3 from Document-10062 V1 in Docushare
-	Filter is moved toward L3 by 3mm. Camera nominal piston is reoptimized by Ming Liang.
+	Filter is moved toward L3 by 3mm, per LCR-646.
+	       The camera nominal piston is reoptimized for each band by Ming Liang. See document-21435.
